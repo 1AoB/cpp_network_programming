@@ -558,7 +558,7 @@ if (QMessageBox::Yes == QMessageBox::question(this,
 }
 ```
 
-![1694330364348](/1694330364348.png)
+![1694330364348](./1694330364348.png)
 
 
 
